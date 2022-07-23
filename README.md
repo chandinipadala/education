@@ -29,4 +29,4 @@ CONTACT US helps us to contact with the instituion.
 <br>
 ![4](https://user-images.githubusercontent.com/109217914/180608164-9aa5c984-603a-4879-a491-72faa6535f5f.png)
 <br>
-The link to my Future Ready Talent project is:
+The link to my Future Ready Talent project is:https://jolly-plant-043660710.1.azurestaticapps.net/
