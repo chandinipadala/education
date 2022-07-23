@@ -2,16 +2,15 @@
 This is my project of future ready talent
 <h1>BEST YOUR EDUCATION</h1>
 Languages used in this project are:
-JAVA SCRIPT
-HTML
-CSS.
+<li>JAVA SCRIPT</li>
+<li>HTML</li>
+<li>CSS</li>
 My webpage has four main divisions. 
 They are:
-<br>
-1)HOME
-2)ABOUT
-3)COURSES
-4)CONTACT US
+<li>1)HOME</li>
+<li>2)ABOUT</li>
+<li>3)COURSES</li>
+<li>4)CONTACT US</li>
 <br>
 HOME division tells us about the instituion and gives us a basic knowledge about it.
 <br>
