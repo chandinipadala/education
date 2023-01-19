@@ -80,4 +80,4 @@ CONTACT US helps us to contact with the instituion.
 
 
 
-The link to my Future Ready Talent project is:https://jolly-plant-043660710.1.azurestaticapps.net/
+The link to my Future Ready Talent project is:https://victorious-pond-0a3bac610.2.azurestaticapps.net
